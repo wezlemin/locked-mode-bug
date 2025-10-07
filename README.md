@@ -4,7 +4,6 @@ This is a bug with Google Forms Locked Mode that lets you exit Locked Mode witho
 # Instructions:
 - Open two windows of the locked form in question.
 - Click the Continue button on both pages at the *exact* same time. If you are too late, it will lock you as normal.
->You should practice first by creating your own locked forms and previewing them.
 >This exploit is likely possible on touchscreen Chromebooks only due to how fast you need to be to click both buttons.
 - You should be in locked mode now, but it will only show a blank window with a forms icon at the top left. Click it.
 - It should now show the enter locked mode screen on the form when you're already in locked mode. Click Continue.
